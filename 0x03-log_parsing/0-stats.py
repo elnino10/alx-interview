@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 # store the count of all status codes in a dictionary
